@@ -17,9 +17,11 @@ class MySolution {
     }
   }
 }
+/* Used for testing
 let t = new MySolution()
 let arr = [1,2,3,6,7,12,32,33,56]
 console.log(t.binarySearch(arr,34))
+*/
 
 // Do not edit this line;
 let StudentSolution = MySolution;
