@@ -17,7 +17,11 @@ class MySolution {
     }
   }
 }
+<<<<<<< HEAD
 /* Used for testing
+=======
+/* used for testing
+>>>>>>> 0d8ac694d4438f87f3fbf45d299b2d1989871b0b
 let t = new MySolution()
 let arr = [1,2,3,6,7,12,32,33,56]
 console.log(t.binarySearch(arr,34))
