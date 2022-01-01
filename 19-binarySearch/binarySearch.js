@@ -18,7 +18,11 @@ class MySolution {
   }
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Used for testing
+=======
+/* used for testing
+>>>>>>> 0d8ac694d4438f87f3fbf45d299b2d1989871b0b
 =======
 /* used for testing
 >>>>>>> 0d8ac694d4438f87f3fbf45d299b2d1989871b0b
